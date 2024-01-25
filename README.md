@@ -8,4 +8,3 @@ This project aim to analyze the collection books "The Witcher". By applying netw
 ### Team members:
 - Maddalena Cavallo - Master's degree in Applied Physics - maddalena.cavallo2@studio.unibo.it
 - Sara Vorabbi - Master's degree in Artificial Intelligence - sara.vorabbi@studio.unibo.it
-- Alka Rana - Master's degree in Digital Humanities and Digital Knowledge - alka.rana@studio.unibo.it
